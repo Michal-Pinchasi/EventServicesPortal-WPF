@@ -1,0 +1,50 @@
+﻿<Window x:Class="my_progect.smallchat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:my_progect"
+        mc:Ignorable="d"
+        Title="smallchat" Height="700" Width="600">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="110"></RowDefinition>
+           
+        </Grid.RowDefinitions>
+        <ScrollViewer Margin="24,0,10,0" Grid.Row="1" Background="Transparent "  >
+
+            <StackPanel  Name="remarkswin"></StackPanel>
+        </ScrollViewer>
+        <StackPanel x:Name="stac" FlowDirection="RightToLeft"  Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center"  >
+
+            <TextBox TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" x:Name="Tcat" Margin="10,5,5,10" Width="440" Height="61" Visibility="Visible"  TextAlignment="Right" Background="#FFFDFDFD"  BorderBrush="Black" SelectionBrush="Black"    />
+
+            <Button  IsEnabled="True" Height="46" Visibility="Visible" x:Name="Bcat"   BorderThickness="0" FontSize="20"  Foreground="Black" Width="75" BorderBrush="White" Click="Bcat_Click" >
+                <Button.Background>
+                    <ImageBrush ImageSource="מטוס.png"/>
+                </Button.Background>
+
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid>
+                            <Border Background="{TemplateBinding Background}" CornerRadius="15" />
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+                        </Grid>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+        </StackPanel>
+        <TextBlock Grid.Row="0">
+            <TextBlock.Background>
+                <ImageBrush ImageSource="/5647404.jpg"/>
+            </TextBlock.Background></TextBlock>
+       
+    </Grid>
+</Window>

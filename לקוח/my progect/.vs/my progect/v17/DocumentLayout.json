@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|c:\\users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\pagemaincostumer.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|solutionrelative:my progect\\pagemaincostumer.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\pagemaincostumer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|solutionrelative:my progect\\pagemaincostumer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\pagemainseller.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|solutionrelative:my progect\\pagemainseller.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\ucbusiness.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|solutionrelative:my progect\\ucbusiness.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\pagemainseller.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|solutionrelative:my progect\\pagemainseller.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\pagenewbusiness.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|solutionrelative:my progect\\pagenewbusiness.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\pagenewseller.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|solutionrelative:my progect\\pagenewseller.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\conection1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|solutionrelative:my progect\\conection1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\pageopen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5C7DCC58-CDE8-48E1-9A65-BABB4E4B51B0}|my progect\\my progect.csproj|solutionrelative:my progect\\pageopen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageMainCostumer.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\PageMainCostumer.xaml.cs",
+              "RelativeDocumentMoniker": "my progect\\PageMainCostumer.xaml.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\PageMainCostumer.xaml.cs",
+              "RelativeToolTip": "my progect\\PageMainCostumer.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T22:04:22.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageMainSeller.xaml",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\PageMainSeller.xaml",
+              "RelativeDocumentMoniker": "my progect\\PageMainSeller.xaml",
+              "ToolTip": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\PageMainSeller.xaml",
+              "RelativeToolTip": "my progect\\PageMainSeller.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-30T22:04:22.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageMainCostumer.xaml",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\PageMainCostumer.xaml",
+              "RelativeDocumentMoniker": "my progect\\PageMainCostumer.xaml",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA\u05EA\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\PageMainCostumer.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-30T22:04:22.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageMainSeller.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\PageMainSeller.xaml.cs",
+              "RelativeDocumentMoniker": "my progect\\PageMainSeller.xaml.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\PageMainSeller.xaml.cs",
+              "RelativeToolTip": "my progect\\PageMainSeller.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwDgAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH9SURBVDhP7ZRBiBJRAIZ/x9HZVRvTgbVSWKLXxjJChy1JklgIEmLx4C0hOobH7rFE56CrLOzFQ908KFFzCEYC5xKdbG8dBJWGBbdxUldn5k0nh6cgCO2hQx/M4Z/vfz8zcxgfGF7XTg42eL6xezUMP\u002BcWHu\u002BlGqxfB44NuwkRV6ICjr/8xPfe5OXHb70nrF8HH54qr\u002BZBToZvytfCpc8nZ3hwK4qHO5vqNv3RrFar3gGe50EIQaFQMKfT6VEulzM9CYCH69ubB304S2zwHM5tilPTgsCH9\u002BOR\u002BL4sy96BwWCA8XiMTqczSCQSp5qmKdlsVp97n9cE8OFr98A8dxpvPnVRureFvBzFVsSH2WzmdRRFgaIoEEURxWIRkUjkWSwWq6XT6d9Y/obt3hi9XzO8eJRCPh2FFAIsy2IrAADXdWGaJmq1GnRdfzuZTJ7P3cJgJmkjkwQy1zdxWXDhUgeu67IVD0ophsMhNE2L1\u002Bv1S/P7frZ0/87tndGZXrqxnQLv50ApZbWHJEkghIAQgn6/j26322y32yqWn1BVVbRaLYxGo5VjhBDk83nvkiQJtm17fmHQcRxYlrXyNddhYfAi\u002BD/49/z7gzwbgsEgOI5Ds9mEIAisWolhGAiFQl5e\u002BNuUy\u002BW7lNJDwzDgOA6rViKKIgKBwPtKpfJu2V0IfwDhDrtncQ2YqQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-12-30T22:04:22.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pagenewbusiness.xaml",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\Pagenewbusiness.xaml",
+              "RelativeDocumentMoniker": "my progect\\Pagenewbusiness.xaml",
+              "ToolTip": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\Pagenewbusiness.xaml",
+              "RelativeToolTip": "my progect\\Pagenewbusiness.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-30T22:04:22.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCbusiness.xaml",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\UCbusiness.xaml",
+              "RelativeDocumentMoniker": "my progect\\UCbusiness.xaml",
+              "ToolTip": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\UCbusiness.xaml",
+              "RelativeToolTip": "my progect\\UCbusiness.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-30T22:04:22.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pagenewseller.xaml",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\Pagenewseller.xaml",
+              "RelativeDocumentMoniker": "my progect\\Pagenewseller.xaml",
+              "ToolTip": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\Pagenewseller.xaml",
+              "RelativeToolTip": "my progect\\Pagenewseller.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-30T22:04:22.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "conection1.xaml",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\conection1.xaml",
+              "RelativeDocumentMoniker": "my progect\\conection1.xaml",
+              "ToolTip": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\conection1.xaml",
+              "RelativeToolTip": "my progect\\conection1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-30T22:04:22.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pageopen.xaml",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\Pageopen.xaml",
+              "RelativeDocumentMoniker": "my progect\\Pageopen.xaml",
+              "ToolTip": "C:\\Users\\\u05DE\u05D9\u05DB\u05DC \u05E4\u05E0\u05D7\u05E1\u05D9\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05D4\u05E4\u05E7\u05EA \u05D0\u05D9\u05E8\u05D5\u05E2\u05D9\u05DD \u05E9\u05E8\u05EA \u05DC\u05E7\u05D5\u05D7 100\\\u05DC\u05E7\u05D5\u05D7\\my progect\\my progect\\Pageopen.xaml",
+              "RelativeToolTip": "my progect\\Pageopen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-30T22:04:22.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿<Page x:Class="my_progect.PageMainSeller"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:my_progect"
+      xmlns:HamburgerMenu="clr-namespace:HamburgerMenu;assembly=HamburgerMenu"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageMainSeller">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/צילום מסך 2024-03-01 002350.png"/>
+        </Grid.Background>
+        <TextBlock Name="text" Text="" HorizontalAlignment="Center" Foreground="White" FontSize="50"></TextBlock>
+        <Calendar x:Name="cld"   Margin="10,126,-10,-126" MouseDoubleClick="cld_MouseDoubleClick" ></Calendar>
+
+    </Grid>
+</Page>

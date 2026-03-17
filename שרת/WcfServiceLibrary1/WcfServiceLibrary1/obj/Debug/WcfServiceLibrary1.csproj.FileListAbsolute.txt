@@ -1,0 +1,44 @@
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\Model.dll
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\ViewModel.dll
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\Model.pdb
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\ViewModel.pdb
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CopyComplete
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\Model.dll
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\ViewModel.dll
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\Model.pdb
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\ViewModel.pdb
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CopyComplete
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\Model.dll
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\ViewModel.dll
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\Model.pdb
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\ViewModel.pdb
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CopyComplete
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\Model.dll
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\ViewModel.dll
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\Model.pdb
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\ViewModel.pdb
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CopyComplete
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

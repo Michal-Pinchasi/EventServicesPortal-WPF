@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfServiceLibrary1/Service1/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfServiceLibrary1/Service1/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfServiceLibrary1/Service1/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Model" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfServiceLibrary1/Service1/?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/modle" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_SelectAllbusiness_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllbusiness" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllbusiness_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllbusinessResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdbusiness_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdbusiness" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdbusiness_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdbusinessResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertbusiness_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insertbusiness" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertbusiness_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertbusinessResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatebusiness_InputMessage">
+    <wsdl:part name="parameters" element="tns:Updatebusiness" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatebusiness_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatebusinessResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllcategories_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllcategories" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllcategories_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllcategoriesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdcategories_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdcategories" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdcategories_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdcategoriesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertcategories_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insertcategories" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertcategories_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertcategoriesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatecategories_InputMessage">
+    <wsdl:part name="parameters" element="tns:Updatecategories" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatecategories_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatecategoriesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllcity_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllcity" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllcity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllcityResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdcity_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdcity" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdcity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdcityResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertcity_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insertcity" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertcity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertcityResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatecity_InputMessage">
+    <wsdl:part name="parameters" element="tns:Updatecity" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatecity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatecityResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllcomments_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllcomments" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllcomments_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllcommentsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertcomments_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insertcomments" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertcomments_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertcommentsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatecomments_InputMessage">
+    <wsdl:part name="parameters" element="tns:Updatecomments" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatecomments_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatecommentsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdcomments_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdcomments" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdcomments_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdcommentsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllcostumer_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllcostumer" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllcostumer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllcostumerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertcostumer_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insertcostumer" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertcostumer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertcostumerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatecostumer_InputMessage">
+    <wsdl:part name="parameters" element="tns:Updatecostumer" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatecostumer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatecostumerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdcostumer_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdcostumer" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdcostumer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdcostumerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertpeople_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insertpeople" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertpeople_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertpeopleResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatepeople_InputMessage">
+    <wsdl:part name="parameters" element="tns:Updatepeople" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatepeople_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatepeopleResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllseller_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllseller" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllseller_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllsellerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertseller_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insertseller" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertseller_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertsellerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updateseller_InputMessage">
+    <wsdl:part name="parameters" element="tns:Updateseller" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updateseller_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatesellerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdsekller_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdsekller" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdsekller_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdsekllerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAlltakendates_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAlltakendates" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAlltakendates_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAlltakendatesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdtakendates_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdtakendates" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdtakendates_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdtakendatesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Inserttakendates_InputMessage">
+    <wsdl:part name="parameters" element="tns:Inserttakendates" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Inserttakendates_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InserttakendatesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatetakendates_InputMessage">
+    <wsdl:part name="parameters" element="tns:Updatetakendates" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Updatetakendates_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatetakendatesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_selectbyphoneseller_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectbyphoneseller" />
+  </wsdl:message>
+  <wsdl:message name="IService1_selectbyphoneseller_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectbyphonesellerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdpeople_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdpeople" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectByIdpeople_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectByIdpeopleResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllChat_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllChat" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllChat_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllChatResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertCat_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertCat" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertCat_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertCatResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertCat1_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertCat1" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertCat1_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertCat1Response" />
+  </wsdl:message>
+  <wsdl:message name="IService1_selectbyphonecostumer_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectbyphonecostumer" />
+  </wsdl:message>
+  <wsdl:message name="IService1_selectbyphonecostumer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectbyphonecostumerResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="SelectAllbusiness">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllbusiness" message="tns:IService1_SelectAllbusiness_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllbusinessResponse" message="tns:IService1_SelectAllbusiness_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdbusiness">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectByIdbusiness" message="tns:IService1_SelectByIdbusiness_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectByIdbusinessResponse" message="tns:IService1_SelectByIdbusiness_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Insertbusiness">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Insertbusiness" message="tns:IService1_Insertbusiness_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertbusinessResponse" message="tns:IService1_Insertbusiness_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Updatebusiness">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Updatebusiness" message="tns:IService1_Updatebusiness_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdatebusinessResponse" message="tns:IService1_Updatebusiness_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllcategories">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllcategories" message="tns:IService1_SelectAllcategories_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllcategoriesResponse" message="tns:IService1_SelectAllcategories_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdcategories">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectByIdcategories" message="tns:IService1_SelectByIdcategories_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectByIdcategoriesResponse" message="tns:IService1_SelectByIdcategories_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Insertcategories">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Insertcategories" message="tns:IService1_Insertcategories_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertcategoriesResponse" message="tns:IService1_Insertcategories_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Updatecategories">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Updatecategories" message="tns:IService1_Updatecategories_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdatecategoriesResponse" message="tns:IService1_Updatecategories_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllcity">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllcity" message="tns:IService1_SelectAllcity_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllcityResponse" message="tns:IService1_SelectAllcity_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdcity">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectByIdcity" message="tns:IService1_SelectByIdcity_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectByIdcityResponse" message="tns:IService1_SelectByIdcity_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Insertcity">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Insertcity" message="tns:IService1_Insertcity_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertcityResponse" message="tns:IService1_Insertcity_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Updatecity">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Updatecity" message="tns:IService1_Updatecity_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdatecityResponse" message="tns:IService1_Updatecity_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllcomments">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllcomments" message="tns:IService1_SelectAllcomments_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllcommentsResponse" message="tns:IService1_SelectAllcomments_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Insertcomments">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Insertcomments" message="tns:IService1_Insertcomments_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertcommentsResponse" message="tns:IService1_Insertcomments_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Updatecomments">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Updatecomments" message="tns:IService1_Updatecomments_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdatecommentsResponse" message="tns:IService1_Updatecomments_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdcomments">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectByIdcomments" message="tns:IService1_SelectByIdcomments_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectByIdcommentsResponse" message="tns:IService1_SelectByIdcomments_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllcostumer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllcostumer" message="tns:IService1_SelectAllcostumer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllcostumerResponse" message="tns:IService1_SelectAllcostumer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Insertcostumer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Insertcostumer" message="tns:IService1_Insertcostumer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertcostumerResponse" message="tns:IService1_Insertcostumer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Updatecostumer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Updatecostumer" message="tns:IService1_Updatecostumer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdatecostumerResponse" message="tns:IService1_Updatecostumer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdcostumer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectByIdcostumer" message="tns:IService1_SelectByIdcostumer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectByIdcostumerResponse" message="tns:IService1_SelectByIdcostumer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Insertpeople">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Insertpeople" message="tns:IService1_Insertpeople_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertpeopleResponse" message="tns:IService1_Insertpeople_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Updatepeople">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Updatepeople" message="tns:IService1_Updatepeople_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdatepeopleResponse" message="tns:IService1_Updatepeople_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllseller">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllseller" message="tns:IService1_SelectAllseller_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllsellerResponse" message="tns:IService1_SelectAllseller_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Insertseller">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Insertseller" message="tns:IService1_Insertseller_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertsellerResponse" message="tns:IService1_Insertseller_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Updateseller">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Updateseller" message="tns:IService1_Updateseller_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdatesellerResponse" message="tns:IService1_Updateseller_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdsekller">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectByIdsekller" message="tns:IService1_SelectByIdsekller_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectByIdsekllerResponse" message="tns:IService1_SelectByIdsekller_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAlltakendates">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAlltakendates" message="tns:IService1_SelectAlltakendates_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAlltakendatesResponse" message="tns:IService1_SelectAlltakendates_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdtakendates">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectByIdtakendates" message="tns:IService1_SelectByIdtakendates_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectByIdtakendatesResponse" message="tns:IService1_SelectByIdtakendates_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Inserttakendates">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Inserttakendates" message="tns:IService1_Inserttakendates_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InserttakendatesResponse" message="tns:IService1_Inserttakendates_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Updatetakendates">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Updatetakendates" message="tns:IService1_Updatetakendates_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdatetakendatesResponse" message="tns:IService1_Updatetakendates_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectbyphoneseller">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/selectbyphoneseller" message="tns:IService1_selectbyphoneseller_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/selectbyphonesellerResponse" message="tns:IService1_selectbyphoneseller_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdpeople">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectByIdpeople" message="tns:IService1_SelectByIdpeople_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectByIdpeopleResponse" message="tns:IService1_SelectByIdpeople_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllChat">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllChat" message="tns:IService1_SelectAllChat_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllChatResponse" message="tns:IService1_SelectAllChat_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertCat">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertCat" message="tns:IService1_InsertCat_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertCatResponse" message="tns:IService1_InsertCat_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertCat1">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertCat1" message="tns:IService1_InsertCat1_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertCat1Response" message="tns:IService1_InsertCat1_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectbyphonecostumer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/selectbyphonecostumer" message="tns:IService1_selectbyphonecostumer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/selectbyphonecostumerResponse" message="tns:IService1_selectbyphonecostumer_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SelectAllbusiness">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllbusiness" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdbusiness">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectByIdbusiness" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Insertbusiness">
+      <soap:operation soapAction="http://tempuri.org/IService1/Insertbusiness" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Updatebusiness">
+      <soap:operation soapAction="http://tempuri.org/IService1/Updatebusiness" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllcategories">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllcategories" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdcategories">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectByIdcategories" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Insertcategories">
+      <soap:operation soapAction="http://tempuri.org/IService1/Insertcategories" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Updatecategories">
+      <soap:operation soapAction="http://tempuri.org/IService1/Updatecategories" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllcity">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllcity" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdcity">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectByIdcity" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Insertcity">
+      <soap:operation soapAction="http://tempuri.org/IService1/Insertcity" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Updatecity">
+      <soap:operation soapAction="http://tempuri.org/IService1/Updatecity" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllcomments">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllcomments" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Insertcomments">
+      <soap:operation soapAction="http://tempuri.org/IService1/Insertcomments" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Updatecomments">
+      <soap:operation soapAction="http://tempuri.org/IService1/Updatecomments" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdcomments">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectByIdcomments" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllcostumer">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllcostumer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Insertcostumer">
+      <soap:operation soapAction="http://tempuri.org/IService1/Insertcostumer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Updatecostumer">
+      <soap:operation soapAction="http://tempuri.org/IService1/Updatecostumer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdcostumer">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectByIdcostumer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Insertpeople">
+      <soap:operation soapAction="http://tempuri.org/IService1/Insertpeople" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Updatepeople">
+      <soap:operation soapAction="http://tempuri.org/IService1/Updatepeople" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllseller">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllseller" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Insertseller">
+      <soap:operation soapAction="http://tempuri.org/IService1/Insertseller" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Updateseller">
+      <soap:operation soapAction="http://tempuri.org/IService1/Updateseller" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdsekller">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectByIdsekller" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAlltakendates">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAlltakendates" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdtakendates">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectByIdtakendates" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Inserttakendates">
+      <soap:operation soapAction="http://tempuri.org/IService1/Inserttakendates" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Updatetakendates">
+      <soap:operation soapAction="http://tempuri.org/IService1/Updatetakendates" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectbyphoneseller">
+      <soap:operation soapAction="http://tempuri.org/IService1/selectbyphoneseller" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectByIdpeople">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectByIdpeople" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllChat">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllChat" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCat">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertCat" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCat1">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertCat1" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectbyphonecostumer">
+      <soap:operation soapAction="http://tempuri.org/IService1/selectbyphonecostumer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/WcfServiceLibrary1/Service1/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

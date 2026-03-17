@@ -1,0 +1,60 @@
+﻿<Page x:Class="my_progect.Pagenewseller"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:my_progect"
+      mc:Ignorable="d" 
+      d:DesignHeight="900" d:DesignWidth="800"
+      Title="Pagenewseller">
+
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height=" 0.5*"></RowDefinition>
+            <RowDefinition Height=" *"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition  Height="*"></RowDefinition>
+            <RowDefinition Height="*" ></RowDefinition>
+            <RowDefinition Height=" *" ></RowDefinition>
+            <RowDefinition Height=" *"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition ></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="פרטים אישיים"  Grid.ColumnSpan="2" Grid.Row="0" Foreground="#FFFFFEFE" FontSize="40" HorizontalAlignment="Center" FontFamily="Arial" ></TextBlock>
+        <Border Padding="5" CornerRadius="10" Background="White" Grid.Column="0" Grid.Row="1" Width="300" Margin="20">
+            <TextBox x:Name="firstname" Text="{Binding Firstname}" Background="White" BorderThickness="0" Grid.Row="3" Grid.Column="1" Margin="0,0,0,5" />
+        </Border>
+        <Border Padding="5" CornerRadius="10" Background="White" Grid.Column="0" Grid.Row="2" Width="300"  Margin="20">
+            <TextBox x:Name="lastname"  Text="{Binding Lastname}" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="White" BorderThickness="0" Grid.Row="3" Grid.Column="1" ></TextBox>
+        </Border>
+        <Border Padding="5" CornerRadius="10" Background="White" Grid.Column="0" Grid.Row="3" Width="300"  Margin="20">
+            <TextBox x:Name="id" Text="{Binding Id}" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="White" BorderThickness="0" Grid.Row="3" Grid.Column="1" ></TextBox>
+        </Border>
+        <Border Padding="5" CornerRadius="10" Background="White" Grid.Column="0" Grid.Row="4" Margin="20" Width="300">
+            <TextBox x:Name="fone" Text="{Binding Phone}" Background="White" BorderThickness="0" Grid.Row="3" Grid.Column="1" Margin="0,0,0,31" />
+        </Border>
+        <Border Padding="5" CornerRadius="10" Background="White" Grid.Column="0" Grid.Row="5" Width="300" Margin="20"  >
+            <ComboBox Name="cmbcity" DisplayMemberPath="Name" SelectedItem="{Binding C1}" Width="200"  ></ComboBox>
+        </Border>
+        <Border Padding="5" CornerRadius="10" Background="White"  Grid.Column="0" Grid.Row="6" Width="300" Margin="20">
+            <TextBox x:Name="cod" Text="{Binding Code}" HorizontalAlignment="Stretch" Height="50" VerticalAlignment="Stretch" Background="White" BorderThickness="0" Grid.Row="3" Grid.Column="1" ></TextBox>
+        </Border>
+        <TextBlock Text="שם פרטי"  Grid.Column="1" VerticalAlignment="Center" Grid.Row="1" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Text="שם משפחה" Grid.Column="1" VerticalAlignment="Center"  Grid.Row="2" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Text="ת.ז" Grid.Column="1" VerticalAlignment="Center" Grid.Row="3" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Text="טלפון" Grid.Column="1" VerticalAlignment="Center" Grid.Row="4" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Text="עיר" Grid.Column="1" VerticalAlignment="Center" Grid.Row="5" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Text="קוד" Grid.Column="1" VerticalAlignment="Center" Grid.Row="6" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Center"></TextBlock>
+
+        <Border Padding="5" CornerRadius="10" Name="btncontinue" Visibility="Hidden" Background="White" Grid.ColumnSpan="2" Grid.Row="7"  Width="400" Height="70">
+            <Button Background="Transparent" BorderThickness="0" Content=" המשך תהליך פתיחת עסק " Foreground="Black"  FontSize="30" FontWeight="Bold" Height="70" FontFamily="Arial" BorderBrush="#FF060606" Margin="-5,0,-5,0" VerticalAlignment="Top" Click="Button_Click_1"     />
+        </Border>
+        <Border Padding="5" CornerRadius="10" Name="btnupdate"  Visibility="Hidden" Background="White" HorizontalAlignment="Left" Grid.Row="7"  Width="150" Height="70">
+            <Button Background="Transparent"  BorderThickness="0" Content=" עדכן " Foreground="Black"  FontSize="30" FontWeight="Bold" Height="70" FontFamily="Arial" BorderBrush="#FF060606" Margin="-5,0,-5,0" VerticalAlignment="Top" Click="Button_Click"      />
+        </Border>
+        
+    </Grid>
+</Page>

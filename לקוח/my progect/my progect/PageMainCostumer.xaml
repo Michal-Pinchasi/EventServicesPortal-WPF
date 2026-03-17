@@ -1,0 +1,68 @@
+﻿<Page x:Class="my_progect.PageMainCostumer"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:my_progect"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageMainCostumer">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"  ></RowDefinition>
+            
+            <RowDefinition Height="4*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock  Grid.Row="0" Background="Black" Grid.ColumnSpan="4"></TextBlock>
+
+        <Border Padding="5" CornerRadius="10" Background="White" Grid.Column="1" Grid.Row="0"  Width="300" Height="50" Grid.ColumnSpan="3">
+            <TextBox x:Name="fonsel" Text="הקלד שם מוכר לחיפוש"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="White" BorderThickness="0" Grid.Row="3" Grid.Column="0" TextChanged="fonsel_TextChanged" ></TextBox>
+        </Border>
+        <Border Padding="5" CornerRadius="10" Background="Transparent" Grid.Column="3" Grid.Row="0" Width="120" Height="70" HorizontalAlignment="Left">
+            <Button BorderThickness="0"  Foreground="White"  FontSize="30" FontWeight="Bold" Width="140" FontFamily="Arial" Margin="0,0,-30,-10"     >
+                <Button.Background>
+                    <ImageBrush Stretch="Uniform" ImageSource="/search.png"/>
+                </Button.Background>
+            </Button>
+        </Border>
+        <StackPanel Grid.Column="1" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left">
+            <Border Padding="5" CornerRadius="10"  Margin="2" Background="White" HorizontalAlignment="Left" Grid.Column="1" Grid.Row="0"  Width="100" Height="40">
+            <Button  HorizontalAlignment="Stretch" Background="Transparent" VerticalAlignment="Stretch" BorderThickness="0" Content="סנן" Foreground="Black"  FontSize="15" FontWeight="Bold" Width="80" Height="30" FontFamily="Arial" BorderBrush="#FF060606" Click="Button_Click"     ></Button>
+        </Border>
+            <Border Padding="5" CornerRadius="10"  Margin="2" Background="White" HorizontalAlignment="Left" Grid.Column="1" Grid.Row="0"  Width="100" Height="40">
+                <Button  HorizontalAlignment="Stretch" Background="Transparent" VerticalAlignment="Stretch" BorderThickness="0" Content="נקה" Foreground="Black"  FontSize="15" FontWeight="Bold" Width="80" Height="30" FontFamily="Arial" BorderBrush="#FF060606" Click="Button_Click_1"     ></Button>
+            </Border>
+        </StackPanel>
+        <TextBlock Grid.Row="1" Grid.ColumnSpan="4">
+            <TextBlock.Background>
+                <ImageBrush ImageSource="/5647404.jpg"/>
+            </TextBlock.Background>
+                 <ScrollViewer Grid.Row="3" Grid.ColumnSpan="4"  Margin="10" VerticalAlignment="Center"  >
+           
+            <WrapPanel x:Name="stcbus" Grid.Row="1"    >
+            </WrapPanel>
+        </ScrollViewer>
+        </TextBlock>
+   
+        <StackPanel Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <DatePicker Name="dpic"></DatePicker>
+          
+            <StackPanel Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                <ComboBox Name="cmbcategory" DisplayMemberPath="Name" SelectedItem="{Binding Categoriesid}" Width="100"   ></ComboBox>
+                <TextBox Text=" בחר קטגוריה" Width="100" Height="30" ></TextBox>
+                
+            </StackPanel>
+            
+            
+        </StackPanel>
+       
+    </Grid>
+</Page>

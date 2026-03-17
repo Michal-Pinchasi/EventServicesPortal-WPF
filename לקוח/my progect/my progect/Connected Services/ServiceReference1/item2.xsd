@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Model" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Model" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfServiceLibrary1/Service1/?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/modle" />
+  <xs:complexType name="ArrayOfBusiness">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Business" nillable="true" type="tns:Business" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfBusiness" nillable="true" type="tns:ArrayOfBusiness" />
+  <xs:complexType name="Business">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.datacontract.org/2004/07/modle" base="q1:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Categoriesid" nillable="true" type="tns:Categories" />
+          <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Image1" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Image2" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Image3" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Sellerid" nillable="true" type="tns:Seller" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Business" nillable="true" type="tns:Business" />
+  <xs:complexType name="Categories">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q2="http://schemas.datacontract.org/2004/07/modle" base="q2:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Categories" nillable="true" type="tns:Categories" />
+  <xs:complexType name="Seller">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:People">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Seller" nillable="true" type="tns:Seller" />
+  <xs:complexType name="People">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q3="http://schemas.datacontract.org/2004/07/modle" base="q3:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="C1" nillable="true" type="tns:City" />
+          <xs:element minOccurs="0" name="Code" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Firstname" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Lastname" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Phone" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="People" nillable="true" type="tns:People" />
+  <xs:complexType name="City">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q4="http://schemas.datacontract.org/2004/07/modle" base="q4:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="City" nillable="true" type="tns:City" />
+  <xs:complexType name="ArrayOfCategories">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Categories" nillable="true" type="tns:Categories" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCategories" nillable="true" type="tns:ArrayOfCategories" />
+  <xs:complexType name="ArrayOfCity">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="City" nillable="true" type="tns:City" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCity" nillable="true" type="tns:ArrayOfCity" />
+  <xs:complexType name="ArrayOfComments">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Comments" nillable="true" type="tns:Comments" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfComments" nillable="true" type="tns:ArrayOfComments" />
+  <xs:complexType name="Comments">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q5="http://schemas.datacontract.org/2004/07/modle" base="q5:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Businessid" nillable="true" type="tns:Business" />
+          <xs:element minOccurs="0" name="Costumerid" nillable="true" type="tns:Costumer" />
+          <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Image" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Comments" nillable="true" type="tns:Comments" />
+  <xs:complexType name="Costumer">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:People">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Costumer" nillable="true" type="tns:Costumer" />
+  <xs:complexType name="ArrayOfCostumer">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Costumer" nillable="true" type="tns:Costumer" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCostumer" nillable="true" type="tns:ArrayOfCostumer" />
+  <xs:complexType name="ArrayOfSeller">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Seller" nillable="true" type="tns:Seller" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfSeller" nillable="true" type="tns:ArrayOfSeller" />
+  <xs:complexType name="ArrayOfTakendates">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Takendates" nillable="true" type="tns:Takendates" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTakendates" nillable="true" type="tns:ArrayOfTakendates" />
+  <xs:complexType name="Takendates">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q6="http://schemas.datacontract.org/2004/07/modle" base="q6:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Sellerid" nillable="true" type="tns:Seller" />
+          <xs:element minOccurs="0" name="Takendate" type="xs:dateTime" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Takendates" nillable="true" type="tns:Takendates" />
+  <xs:complexType name="ArrayOfChat">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Chat" nillable="true" type="tns:Chat" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfChat" nillable="true" type="tns:ArrayOfChat" />
+  <xs:complexType name="Chat">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q7="http://schemas.datacontract.org/2004/07/modle" base="q7:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Business" nillable="true" type="tns:Business" />
+          <xs:element minOccurs="0" name="ChatDate" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="PeopleAccept" nillable="true" type="tns:People" />
+          <xs:element minOccurs="0" name="PeopleWriter" nillable="true" type="tns:People" />
+          <xs:element minOccurs="0" name="Read" type="xs:boolean" />
+          <xs:element minOccurs="0" name="Remarks" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Chat" nillable="true" type="tns:Chat" />
+</xs:schema>

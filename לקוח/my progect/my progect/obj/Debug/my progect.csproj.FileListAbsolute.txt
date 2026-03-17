@@ -1,0 +1,502 @@
+M:\פרוייקט הפקת אירועים\my progect\my progect\bin\Debug\my progect.exe.config
+M:\פרוייקט הפקת אירועים\my progect\my progect\bin\Debug\my progect.exe
+M:\פרוייקט הפקת אירועים\my progect\my progect\bin\Debug\my progect.pdb
+M:\פרוייקט הפקת אירועים\my progect\my progect\obj\Debug\my progect.csproj.AssemblyReference.cache
+M:\פרוייקט הפקת אירועים\my progect\my progect\obj\Debug\MainWindow.g.cs
+M:\פרוייקט הפקת אירועים\my progect\my progect\obj\Debug\App.g.cs
+M:\פרוייקט הפקת אירועים\my progect\my progect\obj\Debug\my progect_MarkupCompile.cache
+M:\פרוייקט הפקת אירועים\my progect\my progect\obj\Debug\my progect_MarkupCompile.lref
+M:\פרוייקט הפקת אירועים\my progect\my progect\obj\Debug\MainWindow.baml
+M:\פרוייקט הפקת אירועים\my progect\my progect\obj\Debug\my progect.g.resources
+M:\פרוייקט הפקת אירועים\my progect\my progect\obj\Debug\my_progect.Properties.Resources.resources
+M:\פרוייקט הפקת אירועים\my progect\my progect\obj\Debug\my progect.csproj.GenerateResource.cache
+M:\פרוייקט הפקת אירועים\my progect\my progect\obj\Debug\my progect.csproj.CoreCompileInputs.cache
+M:\פרוייקט הפקת אירועים\my progect\my progect\obj\Debug\my progect.exe
+M:\פרוייקט הפקת אירועים\my progect\my progect\obj\Debug\my progect.pdb
+M:\פרוייקט הפקת אירועים\my progect\my progect\obj\Debug\my progect.csproj.SuggestedBindingRedirects.cache
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\my progect.exe.config
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\my progect.exe
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\my progect.pdb
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\Model.dll
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\Model.pdb
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.AssemblyReference.cache
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.SuggestedBindingRedirects.cache
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\MainWindow.g.cs
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\App.g.cs
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect_MarkupCompile.cache
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect_MarkupCompile.lref
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\MainWindow.baml
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.g.resources
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my_progect.Properties.Resources.resources
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.GenerateResource.cache
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.CoreCompileInputs.cache
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.CopyComplete
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.exe
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.pdb
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\pagedetaels2.g.cs
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagedetails3.g.cs
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagedetals.g.cs
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecity.g.cs
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\ViewModel.dll
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\ViewModel.pdb
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecity.baml
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\pagedetaels2.baml
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagedetails3.baml
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagedetals.baml
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagetakendates.g.cs
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagetakendates.baml
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.AssemblyReference.cache
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.SuggestedBindingRedirects.cache
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\MainWindow.g.cs
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecity.g.cs
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\pagedetaels2.g.cs
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagedetails3.g.cs
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagedetals.g.cs
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagetakendates.g.cs
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\App.g.cs
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect_MarkupCompile.cache
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect_MarkupCompile.lref
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.exe
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.pdb
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\my progect.exe.config
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\my progect.exe
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\my progect.pdb
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\Model.dll
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\ViewModel.dll
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\Model.pdb
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\ViewModel.pdb
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\MainWindow.baml
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecity.baml
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\pagedetaels2.baml
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagedetails3.baml
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagedetals.baml
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagetakendates.baml
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.g.resources
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my_progect.Properties.Resources.resources
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.GenerateResource.cache
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.CoreCompileInputs.cache
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.CopyComplete
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecastumer.g.cs
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecastumer.baml
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.AssemblyReference.cache
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\MainWindow.g.cs
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecastumer.g.cs
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecity.g.cs
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\pagedetaels2.g.cs
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagedetails3.g.cs
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagedetals.g.cs
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagetakendates.g.cs
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\App.g.cs
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect_MarkupCompile.cache
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect_MarkupCompile.lref
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.exe
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.pdb
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\my progect.exe.config
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\my progect.exe
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\my progect.pdb
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\Model.dll
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\ViewModel.dll
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\Model.pdb
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\bin\Debug\ViewModel.pdb
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\MainWindow.baml
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecastumer.baml
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecity.baml
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\pagedetaels2.baml
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagedetails3.baml
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagedetals.baml
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagetakendates.baml
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.g.resources
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my_progect.Properties.Resources.resources
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.GenerateResource.cache
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.CoreCompileInputs.cache
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\my progect.csproj.CopyComplete
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecategories.g.cs
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecategories.baml
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecategories.g.cs
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecategories.baml
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pageseller.g.cs
+C:\Users\IMOE001\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pageseller.baml
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pageseller.g.cs
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pageseller.baml
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagepeople.g.cs
+C:\Users\329429567\Desktop\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagepeople.baml
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagebusiness.g.cs
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecastumer.g.cs
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecategories.g.cs
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecomments.g.cs
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pageseller.g.cs
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagebusiness.baml
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecastumer.baml
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecategories.baml
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pagecomments.baml
+M:\פרוייקט הפקת אירועים מתקדם\my progect\my progect\obj\Debug\Pageseller.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\bin\Debug\my progect.exe.config
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\bin\Debug\my progect.exe
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\bin\Debug\my progect.pdb
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.csproj.AssemblyReference.cache
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.csproj.SuggestedBindingRedirects.cache
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\connection.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\MainWindow.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagebusiness.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecastumer.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecategories.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecity.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecomments.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\pagedetaels2.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagedetails3.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagedetals.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pageopen.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pageseller.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagetakendates.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\App.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.cache
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.lref
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\connection.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\MainWindow.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagebusiness.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecastumer.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecategories.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecity.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecomments.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\pagedetaels2.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagedetails3.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagedetals.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pageopen.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pageseller.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagetakendates.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.g.resources
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my_progect.Properties.Resources.resources
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.csproj.GenerateResource.cache
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.csproj.CoreCompileInputs.cache
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.exe
+D:\תכנותתת\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.pdb
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\bin\Debug\my progect.exe.config
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\bin\Debug\my progect.exe
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\bin\Debug\my progect.pdb
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.csproj.AssemblyReference.cache
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.csproj.SuggestedBindingRedirects.cache
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\connection.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\MainWindow.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagebusiness.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecastumer.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecategories.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecity.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecomments.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\pagedetaels2.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagedetails3.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagedetals.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pageopen.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pageseller.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagetakendates.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\App.g.cs
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.cache
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.lref
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\connection.baml
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\MainWindow.baml
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagebusiness.baml
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecastumer.baml
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecategories.baml
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecity.baml
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecomments.baml
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\pagedetaels2.baml
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagedetails3.baml
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagedetals.baml
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pageopen.baml
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pageseller.baml
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagetakendates.baml
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.g.resources
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my_progect.Properties.Resources.resources
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.csproj.GenerateResource.cache
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.csproj.CoreCompileInputs.cache
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.exe
+C:\Users\IMOE001\Desktop\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.pdb
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\bin\Debug\my progect.exe.config
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\bin\Debug\my progect.exe
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\bin\Debug\my progect.pdb
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\bin\Debug\HamburgerMenu.dll
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.csproj.AssemblyReference.cache
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.csproj.SuggestedBindingRedirects.cache
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\conection1.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\connection.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\MainWindow.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagebusiness.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\PageBusinessSeller.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecastumer.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecategories.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagechat.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecity.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecomments.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\pagedetaels2.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagedetails3.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagedetals.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagehomeseller.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\PageMainCostumer.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\PageMainSeller.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagenewbusiness.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagenewcostumer.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagenewseller.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pageopen.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pageseller.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagetakendates.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\personal.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\UCchat.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\App.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.cache
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.lref
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\conection1.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\connection.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\MainWindow.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagebusiness.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\PageBusinessSeller.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecastumer.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecategories.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagechat.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecity.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagecomments.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\pagedetaels2.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagedetails3.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagedetals.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagehomeseller.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\PageMainCostumer.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\PageMainSeller.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagenewbusiness.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagenewcostumer.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagenewseller.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pageopen.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pageseller.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagetakendates.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\personal.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\UCchat.baml
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.g.resources
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my_progect.Properties.Resources.resources
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.csproj.GenerateResource.cache
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.csproj.CoreCompileInputs.cache
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.csproj.CopyComplete
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.exe
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\my progect.pdb
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagechatcostumer.g.cs
+M:\הפקת אירועים שרת לקוח\לקוח\my progect\my progect\obj\Debug\Pagechatcostumer.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\my progect.exe.config
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\my progect.exe
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\my progect.pdb
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\HamburgerMenu.dll
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.AssemblyReference.cache
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\conection1.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\connection.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\MainWindow.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageBusinessSeller.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechat.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechatcostumer.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagehomeseller.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainCostumer.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainSeller.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewbusiness.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewcostumer.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewseller.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageopen.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageseller.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagetakendates.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\personal.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCchat.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\App.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.cache
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.lref
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\conection1.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\connection.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\MainWindow.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageBusinessSeller.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechat.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechatcostumer.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagehomeseller.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainCostumer.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainSeller.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewbusiness.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewcostumer.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewseller.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageopen.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageseller.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagetakendates.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\personal.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCchat.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.g.resources
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my_progect.Properties.Resources.resources
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.GenerateResource.cache
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.CoreCompileInputs.cache
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.CopyComplete
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.exe
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.pdb
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.SuggestedBindingRedirects.cache
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCbusiness.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCbusiness.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageintroduceBus.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageintroduceBus.baml
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\smallchat.g.cs
+M:\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\smallchat.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\my progect.exe.config
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\my progect.exe
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\my progect.pdb
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\HamburgerMenu.dll
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.AssemblyReference.cache
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.SuggestedBindingRedirects.cache
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\conection1.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\connection.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\MainWindow.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageBusinessSeller.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechat.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechatcostumer.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagehomeseller.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageintroduceBus.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainCostumer.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainSeller.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewbusiness.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewcostumer.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewseller.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageopen.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageseller.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagetakendates.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\personal.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\smallchat.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCbusiness.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCchat.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\App.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.cache
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.lref
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\conection1.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\connection.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\MainWindow.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageBusinessSeller.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechat.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechatcostumer.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagehomeseller.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageintroduceBus.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainCostumer.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainSeller.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewbusiness.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewcostumer.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewseller.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageopen.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageseller.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagetakendates.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\personal.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\smallchat.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCbusiness.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCchat.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.g.resources
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my_progect.Properties.Resources.resources
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.GenerateResource.cache
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.CoreCompileInputs.cache
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.CopyComplete
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.exe
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.pdb
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\my progect.exe.config
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\my progect.exe
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\my progect.pdb
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\HamburgerMenu.dll
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.AssemblyReference.cache
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.SuggestedBindingRedirects.cache
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\conection1.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\connection.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\MainWindow.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageBusinessSeller.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechat.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechatcostumer.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagehomeseller.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageintroduceBus.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainCostumer.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainSeller.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewbusiness.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewcostumer.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewseller.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageopen.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageseller.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagetakendates.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\personal.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\smallchat.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCbusiness.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCchat.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\App.g.cs
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.cache
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.lref
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\conection1.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\connection.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\MainWindow.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageBusinessSeller.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechat.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechatcostumer.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagehomeseller.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageintroduceBus.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainCostumer.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainSeller.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewbusiness.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewcostumer.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewseller.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageopen.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageseller.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagetakendates.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\personal.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\smallchat.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCbusiness.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCchat.baml
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.g.resources
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my_progect.Properties.Resources.resources
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.GenerateResource.cache
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.CoreCompileInputs.cache
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.CopyComplete
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.exe
+D:\תכנותתת\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.pdb
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\my progect.exe.config
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\my progect.exe
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\my progect.pdb
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\bin\Debug\HamburgerMenu.dll
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.AssemblyReference.cache
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.exe.config
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\conection1.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\connection.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\MainWindow.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageBusinessSeller.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechat.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechatcostumer.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagehomeseller.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageintroduceBus.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainCostumer.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainSeller.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewbusiness.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewcostumer.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewseller.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageopen.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageseller.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagetakendates.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\personal.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\smallchat.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCbusiness.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCchat.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\App.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.cache
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect_MarkupCompile.lref
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\conection1.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\connection.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\MainWindow.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageBusinessSeller.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechat.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagechatcostumer.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagehomeseller.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageintroduceBus.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainCostumer.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\PageMainSeller.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewbusiness.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewcostumer.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagenewseller.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageopen.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pageseller.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\Pagetakendates.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\personal.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\smallchat.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCbusiness.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\UCchat.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.g.resources
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my_progect.Properties.Resources.resources
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.GenerateResource.cache
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.CoreCompileInputs.cache
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.csproj.Up2Date
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.exe
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\לקוח\my progect\my progect\obj\Debug\my progect.pdb

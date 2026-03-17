@@ -1,0 +1,138 @@
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\bin\Debug\Host.exe.config
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\bin\Debug\Host.exe
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\bin\Debug\Host.pdb
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\obj\Debug\MainWindow.g.cs
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\obj\Debug\App.g.cs
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\obj\Debug\Host_MarkupCompile.cache
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\obj\Debug\Host_MarkupCompile.lref
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\obj\Debug\MainWindow.baml
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\obj\Debug\Host.g.resources
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\obj\Debug\Host.Properties.Resources.resources
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\obj\Debug\Host.exe
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\obj\Debug\Host.pdb
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\bin\Debug\Model.dll
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\bin\Debug\ViewModel.dll
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\bin\Debug\Model.pdb
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\bin\Debug\ViewModel.pdb
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.CopyComplete
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.exe.config
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.exe
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.pdb
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\Model.dll
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\ViewModel.dll
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\Model.pdb
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\ViewModel.pdb
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\MainWindow.g.cs
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\App.g.cs
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host_MarkupCompile.cache
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host_MarkupCompile.lref
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\MainWindow.baml
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.g.resources
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.Properties.Resources.resources
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.CopyComplete
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.exe
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.pdb
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.exe.config
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.exe
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.pdb
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\Model.dll
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\ViewModel.dll
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\Model.pdb
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\bin\Debug\ViewModel.pdb
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\MainWindow.g.cs
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\App.g.cs
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host_MarkupCompile.cache
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host_MarkupCompile.lref
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\MainWindow.baml
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.g.resources
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.Properties.Resources.resources
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.CopyComplete
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.exe
+M:\גיבוי\14הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.pdb
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.exe.config
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.exe
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.pdb
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Model.dll
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\ViewModel.dll
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Model.pdb
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\ViewModel.pdb
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\MainWindow.g.cs
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\App.g.cs
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host_MarkupCompile.cache
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host_MarkupCompile.lref
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\MainWindow.baml
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.g.resources
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.Properties.Resources.resources
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.CopyComplete
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.exe
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.pdb
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.exe.config
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.exe
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.pdb
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.dll
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Model.dll
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\ViewModel.dll
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.pdb
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Model.pdb
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\ViewModel.pdb
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\MainWindow.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\App.g.cs
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host_MarkupCompile.cache
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host_MarkupCompile.lref
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\MainWindow.baml
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.g.resources
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.Properties.Resources.resources
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.GenerateResource.cache
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.CopyComplete
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.exe
+F:\תכנותתת\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.pdb
+C:\Users\מיכל פנחסי\Desktop\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.exe
+C:\Users\מיכל פנחסי\Desktop\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.pdb
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.exe
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.pdb
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.exe.config
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.exe
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Host.pdb
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Model.dll
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\ViewModel.dll
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\Model.pdb
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\bin\Debug\ViewModel.pdb
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\MainWindow.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\App.g.cs
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host_MarkupCompile.cache
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host_MarkupCompile.lref
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\MainWindow.baml
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.g.resources
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\מיכל פנחסי\Desktop\לימודים\פרוייקטים בתכנות\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Host\obj\Debug\Host.csproj.Up2Date

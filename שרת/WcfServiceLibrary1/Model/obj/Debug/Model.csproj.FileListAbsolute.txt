@@ -1,0 +1,18 @@
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Model\bin\Debug\Model.dll
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Model\bin\Debug\Model.pdb
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Model\obj\Debug\Model.dll
+M:\הפקת אירועים שרת לקוח\WcfServiceLibrary1\Model\obj\Debug\Model.pdb
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Model\bin\Debug\Model.dll
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Model\bin\Debug\Model.pdb
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Model\obj\Debug\Model.dll
+M:\הפקת אירועים שרת לקוח\שרת\WcfServiceLibrary1\Model\obj\Debug\Model.pdb
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Model\bin\Debug\Model.dll
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Model\bin\Debug\Model.pdb
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Model\obj\Debug\Model.dll
+M:\הפקת אירועים שרת לקוח 100\שרת\WcfServiceLibrary1\Model\obj\Debug\Model.pdb

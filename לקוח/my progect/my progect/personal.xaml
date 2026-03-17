@@ -1,0 +1,70 @@
+﻿<Page x:Class="my_progect.personal"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:my_progect"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="personal">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/27051.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" FlowDirection="RightToLeft" >
+            <TextBlock Text="    " Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Text="שלום" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Text="    " Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Name="firstname" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Text="    " Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Name="lastname" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Text="   ! " Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" FlowDirection="RightToLeft" >
+            <TextBlock Text="    " Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Text="תעודת זהות:" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Text="    " Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Name="id" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" FlowDirection="RightToLeft" >
+            <TextBlock Text="    " Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Text="טלפון:" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Text="    " Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Name="phone" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" FlowDirection="RightToLeft" >
+            <TextBlock Text="    " Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Text="קוד:" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Text="    " Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Name="cod" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" FlowDirection="RightToLeft" >
+            <TextBlock Text="    " Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Text="עיר:" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Text="    " Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+            <TextBlock Name="city" Foreground="#FFFFFEFE" FontSize="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"></TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" FlowDirection="RightToLeft" >
+            <Border Padding="5" CornerRadius="10" Background="White" Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="2" Width="200" Height="50">
+                <Button Background="Transparent" VerticalAlignment="Top" BorderThickness="0" Content="עדכון" Foreground="Black"  FontSize="30" FontWeight="Bold" Width="70" Height="50" FontFamily="Arial" BorderBrush="#FF060606" Click="Button_Click" Margin="60,0,60,0"     />
+            </Border>
+
+        </StackPanel>
+    </Grid>
+
+</Page>
